@@ -1,0 +1,20 @@
+[DEBUG] 2024-08-07 16:41:26.746 [main] Test - Test One started
+[DEBUG] 2024-08-07 16:41:32.145 [main] Test - Chrome browser got launched
+[DEBUG] 2024-08-07 16:41:45.612 [main] Test - Access searchbox
+[DEBUG] 2024-08-07 16:41:47.429 [main] Test - Insert Product Name
+[INFO ] 2024-08-07 16:41:54.873 [main] Test - 'Rezultatul căutării' is displayed
+[DEBUG] 2024-08-07 16:42:11.893 [main] Test - Quitting the driver
+[DEBUG] 2024-08-07 16:42:11.901 [main] Test - Test Two started
+[DEBUG] 2024-08-07 16:42:11.902 [main] Test - Chrome browser got launched
+[INFO ] 2024-08-07 16:42:35.181 [main] Test - NU AI GASIT PRODUSUL POTRIVIT? NOI TE AJUTĂM!
+[DEBUG] 2024-08-07 16:42:36.601 [main] Test - Quitting the driver
+[DEBUG] 2024-08-07 16:42:36.608 [main] Test - Test Three started
+[DEBUG] 2024-08-07 16:43:01.575 [main] Test - Quitting the driver
+[DEBUG] 2024-08-07 16:43:01.583 [main] Test - Test Four started
+[DEBUG] 2024-08-07 16:43:01.583 [main] Test - Chrome browser got launched
+[INFO ] 2024-08-07 16:43:24.249 [main] Test - NU AI GASIT PRODUSUL POTRIVIT? NOI TE AJUTĂM!
+[DEBUG] 2024-08-07 16:43:25.650 [main] Test - Quitting the driver
+[DEBUG] 2024-08-07 16:43:25.660 [main] Test - Test Five started
+[DEBUG] 2024-08-07 16:43:25.661 [main] Test - Chrome browser got launched
+[INFO ] 2024-08-07 16:43:47.226 [main] Test - Rezultatul cautarii' is displayed
+[DEBUG] 2024-08-07 16:43:50.127 [main] Test - Quitting the driver
