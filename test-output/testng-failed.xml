@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="three.NavigateBackForward">
+      <class name="three.HandlingAlerts">
         <methods>
           <include name="method"/>
         </methods>
-      </class> <!-- three.NavigateBackForward -->
+      </class> <!-- three.HandlingAlerts -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
