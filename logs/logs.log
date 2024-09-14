@@ -18,3 +18,9 @@
 [DEBUG] 2024-08-07 16:43:25.661 [main] Test - Chrome browser got launched
 [INFO ] 2024-08-07 16:43:47.226 [main] Test - Rezultatul cautarii' is displayed
 [DEBUG] 2024-08-07 16:43:50.127 [main] Test - Quitting the driver
+[DEBUG] 2024-09-13 13:03:29.245 [main] Test - Test One started
+[DEBUG] 2024-09-13 13:03:48.239 [main] Test - Chrome browser got launched
+[DEBUG] 2024-09-13 13:04:05.102 [main] Test - Access searchbox
+[DEBUG] 2024-09-13 13:04:07.225 [main] Test - Insert Product Name
+[INFO ] 2024-09-13 13:04:14.680 [main] Test - 'Rezultatul căutării' is displayed
+[DEBUG] 2024-09-13 13:04:22.076 [main] Test - Quitting the driver
